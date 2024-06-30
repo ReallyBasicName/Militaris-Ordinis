@@ -1,0 +1,139 @@
+
+[
+	{
+		"name": "Halbbrüder",
+		"replaces": "Pikeman",
+		"uniqueTo": "Teutonic Order"
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 17,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"promotions": ["Teutonic Ability"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Metallurgy",
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Ritterbrüder",
+		"replaces": "Knight",
+		"uniqueTo": "Teutonic Order"
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": [
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"[-33]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Teutonic Ability","Quick Study"],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Crusader",
+		"replaces": "Swordsman"
+		"uniqueTo": "Kingdom of Jerusalem"
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 16,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": [
+			"[+15]% Strength <when fighting in [Enemy Land] tiles>",
+			"Can be purchased for [75] [Faith] [in all cities]"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Militi Sancti Sepulcri"
+		"replaces": "Longswordsman"
+		"uniqueTo": "Kingdom of Jerusalem"
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"obsoleteTech": "Gunpowder",
+		"upgradesTo": "Musketman",
+		"requiredResource": "Iron",
+		"uniques": [
+			"Prevents spreading of religion to the city it is next to"
+			"[+15]% Strength <when fighting in [Friendly Land] tiles>"
+			],
+		"attackSound": "metalhit"
+	},
+	/*{
+		"name": "Leper Knight",
+		"replaces": "Lancer",
+		"uniqueTo": "Order of Saint Lazarus",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 24,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"obsoleteTech": "Combined Arms",
+		"upgradesTo": "Anti-Tank Gun",
+		"uniques": ["Can move after attacking",
+			"No defensive terrain bonus",
+			"[-33]% Strength <vs cities>",
+			"Consumes [1] [Horses]",
+			"[-5]% Strength for enemy [All] units in adjacent [All] tiles"]
+		"promotions": ["Formation I"],
+		"attackSound": "horse"
+	},*/
+	{
+		"name": "Medical Knight",
+		"replaces": "Knight",
+		"uniqueTo": "Order of the Red Star"
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus",
+			"[-33]% Strength <vs cities> <when attacking>"],
+                "promotions": ["Medic II"],
+		"hurryCostModifier": 20,
+		"attackSound": "horse"
+	},
+	{
+		"name": "Knights Hospitaller",
+		"replaces": "Pikeman",
+		"uniqueTo": "Knights Hospitaller"
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 18,
+		"cost": 90,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"]
+        "promotions": ["Quick Study"],
+		"upgradesTo": "Lancer",
+		"obsoleteTech": "Gunpowder",
+		"attackSound": "metalhit",
+	},
+	{
+		"name": "Knights Templar",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Knights Templar"
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 23,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"uniques": [
+			"[+5]% Strength <when defending>"]
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"attackSound": "metalhit"
+	},
+]

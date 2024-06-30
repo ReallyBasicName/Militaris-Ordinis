@@ -1,0 +1,54 @@
+[
+	/*{
+		"name": "Ordensburg",
+		"replaces": "Castle",
+		"cost": 125,
+		"uniqueTo": "Livonian Order",
+		"cityStrength": 15,
+		"cityHealth": 90,
+		"hurryCostModifier": 50,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry",
+	},*/
+	{
+		"name": "Monastery Hospital"
+		"replaces": "Garden",
+		"faith": 1,
+		"cost": 125,
+		"uniqueTo": "Order of the Red Star"
+        "uniques": [
+            "[+20]% Great Person generation [in this city]",
+            "All newly-trained [Melee] units [in this city] receive the [Medic] promotion"
+        ],
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+		"requiredTech": "Theology",
+	},
+	{
+		"name": "Commandery"
+		"replaces": "Armory",
+		"uniqueTo": "Knights Hospitaller"
+		"cost": 160,
+		"cityStrength": 10,
+		"cityHealth": 15,
+        "uniques": [
+			"New [Military] units start with [15] Experience [in this city]",
+			"Destroyed when the city is captured"
+        ],
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+		"requiredBuilding": "Barracks",
+		"requiredTech": "Steel"
+	},
+	{
+		"name": "Templar Bank",
+		"replaces": "Bank",
+		"uniqueTo": "Knights Templar"
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 33},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+	},
+]

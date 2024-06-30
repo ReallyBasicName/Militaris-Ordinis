@@ -1,0 +1,200 @@
+
+[
+	{
+		"name": "Teutonic Order",
+		"style": "Germanic",
+		"leaderName": "Herman von Salza",
+		"adjective": ["Teutonic"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"hateHello": "",
+		
+		"tradeRequest": "The Order is willing to permiss this trade.",
+				
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Northern Crusades",
+		"uniques": [
+			"[-33]% maintenance costs <for [Land] units>",
+			],
+		"cities": ["Mariensburg","Konigsberg","Danzig","Memel","Heilsburg","Kulm","Tuchel","Soldin",
+			"Ortelsburg","Osterode","Allenstein","AngerBerg","Neidenburg","Rosenberck","Thorn",
+			"Kruschwitz","Johannisburg","Hasenpoth","Shwanenburg","Dondangen"]
+        "spyNames": ["Johann", "Marlene", "Eva", "Wilhelm", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
+	},
+	{
+		"name": "Knights Hospitaller",
+		"leaderName": "Jean Parisot de Valette",
+		"adjective": ["Maltese"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "We will rid your lands from the heathens!",
+		"attacked": "We have defended the true faith for decades, what makes you think this will be an easy fight!",
+		"defeated": "If this is God's will, then I bitterly accept it...",
+		"introduction": "Welcome to the Order of Malta.",
+		
+		"neutralHello": "What brings you here?",
+		"hateHello": "You disgust me.",
+		
+		"tradeRequest": "The Order is willing to permiss this trade.",
+				
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
+		"style": "Mediterranean",
+		"favoredReligion": "Christianity",
+		"uniqueName": "Defenders of Christianity",
+		"uniques": [
+			"[-25]% maintenance costs <for [Land] units>",
+			"Damage is ignored when determining unit Strength <for [non-air] units>"],
+		"cities": ["Valletta","Qormi","Żabbar","Żebbuġ","Żejtun","Siġġiewi","Rabat","Bormla","Senglea","Birgu",
+			"Mdina","Sliema","Paolo","Mosta","Mgarr","Luqa","San Lawrenz","Manikata","San Blas","Naxxar"]
+        "spyNames": ["Antonín", "Fridrich", "Jan", "Mikuláš", "Konrad", "Josef", "Václav", "František", "Lev", "Arnošt"]
+	},
+	{
+		"name": "Knights Templar",
+		"style": "Templar",
+		"leaderName": "Jacques de Molay",
+		"adjective": ["Templar"],
+		"startBias": [],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Do not fret, this war is ordained by God.",
+		"attacked": "A terrible misfortune will strike you, heretic!",
+		"defeated": "If this is God's will, then I bitterly accept it...",
+		"introduction": "Greetings stranger, you have met the pious Teutonic Order.",
+		
+		"neutralHello": "Do you need escort to the Holy Land?",
+		"hateHello": "Your actions are heretical, be swift with what you have to say.",
+		
+		"tradeRequest": "The Order is willing to permiss this trade.",
+				
+		"outerColor": [255,255,255],
+		"innerColor": [255,0,0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Order of Bankers",
+		"uniques": [
+			"[+1 Happiness] from all [Gold] buildings",
+			"[+1 Gold] from all [Happiness] buildings"
+			],
+		"cities": ["Nicosia","Limassol","Larnaka","Paphos","Famagusta","Kyrenia"]
+        "spyNames": ["Antonín", "Fridrich", "Jan", "Mikuláš", "Konrad", "Josef", "Václav", "František", "Lev", "Arnošt"]
+	},
+	{
+		"name": "Order of the Red Star",
+		"leaderName": "Master Albert",
+		"adjective": ["Maltese"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "No need to fear, we only need to stop a threat.",
+		"attacked": "We hope you realize your mistake.",
+		"defeated": "God wills it...",
+		"introduction": "I welcome you mighty leader, if you ever need a hospital you can come to us",
+		
+		"neutralHello": "Do you need assistance?",
+		"hateHello": "Need something?",
+		
+		"tradeRequest": "Is this too much?",
+				
+		"outerColor": [0,0,0],
+		"innerColor": [255,0,0],
+		"style": "Germanic",
+		"favoredReligion": "Christianity",
+		"uniqueName": "Nursing Military Order",
+		"uniques": [
+			"May not annex cities"
+			"[-1 Happiness] [in all cities] <when at war>",
+			"[+1 Happiness] [in all cities] <when not at war>",
+			"[+1 Faith] [in all cities] <when not at war> <after discovering [Theology]>",
+			"[+1 Happiness, +1 Food] from every [Monastery Hospital] <after discovering [Biology]>"],
+		"cities": ["Kostel sv. Františeka z Assisi","Kostel sv. Petra na Poříčí","Kaple Nejsvětější Trojice a sv. Václava",
+			"Kostel Všech Svatých","Kostel sv. Jiří","Kostel sv. Martina","Kostel sv. Františka z Assisi",
+			"Kaple sv. Judy a Tadeáše","Kostel Nanebevzetí P. Marie","Kostel sv. Petra a Pavla",
+			"Kostel sv. Jana Křtitele a sv. Antonína","Katedrála sv. Štěpána","Kostel sv. Václava",
+			"Kostel sv. Maří Magdaleny","Kostel sv. Václava","Kostel Nanebevzetí P. Marie"]
+        "spyNames": ["Antonín", "Fridrich", "Jan", "Mikuláš", "Konrad", "Josef", "Václav", "František", "Lev", "Arnošt"]
+	},
+	/*{
+		"name": "Order of Saint Lazarus",
+		"style": "Germanic",
+		"leaderName": "Boyant Roger",
+		"adjective": ["Maltese"],
+		"startBias": ["Avoid [Tundra]", "Avoid [Snow]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+		
+		"declaringWar": "Do not fret, this war is ordained by God.",
+		"attacked": "A terrible misfortune will strike you, heretic!",
+		"defeated": "If this is God's will, then I bitterly accept it...",
+		"introduction": "Greetings stranger, you have met the pious Teutonic Order.",
+		
+		"neutralHello": "Are you here to pray?",
+		"hateHello": "Your actions are heretical, be swift with what you have to say.",
+		
+		"tradeRequest": "The Order is willing to permiss this trade.",
+				
+		"outerColor": [255,255,255],
+		"innerColor": [1,132,37],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Care for the Lepers",
+		"uniques": ["[-5]% maintenance costs <for [Land] units>",
+			"[+1 Food] from every specialist [in all cities]"],
+		"cities": ["Valletta","Qormi","Żabbar","Żebbuġ","Żejtun","Siġġiewi","Rabat","Bormla","Senglea","Birgu",
+			"Mdina","Sliema","Paolo","Mosta","Mgarr","Luqa","San Lawrenz","Manikata","San Blas","Naxxar"]
+        "spyNames": ["Antonín", "Fridrich", "Jan", "Mikuláš", "Konrad", "Josef", "Václav", "František", "Lev", "Arnošt"]
+	},*/
+	{
+		"name": "Kingdom of Jerusalem",
+		"style": "Middle Eastern",
+		"leaderName": "Baldwin IV",
+		"adjective": ["Latin"],
+		"startBias": ["Avoid [Coast]","Avoid [Snow]","Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		"startIntroPart2": ""
+		"declaringWar": "Do not fret, this war is ordained by God.",
+		"attacked": "A terrible misfortune will strike you, heretic!",
+		"defeated": "If this is God's will, then I bitterly accept it...",
+		"introduction": "Greetings stranger, you have met the pious Teutonic Order.",
+		
+		"neutralHello": "Are you here to pray?",
+		"hateHello": "Your actions are heretical, be swift with what you have to say.",
+		
+		"tradeRequest": "The Order is willing to permiss this trade.",
+				
+		"outerColor": [251, 246, 217],
+		"innerColor": [196, 149, 29],
+		"favoredReligion": "Christianity",
+		"uniqueName": "The Holy Land",
+		"uniques": [
+			"[+1 Faith] from every [Luxury resource]"
+			"May choose [1] additional belief(s) of any type when [founding] a religion"],
+		"cities": ["Jerusalem","Tyre","Acre","Sidon","Byblos","Edessa","Antioch","Beirut","Ascalon","Tripoli",
+			"Cilica","Turbessel","Tarsus","Arduf","Hattin","Nicosia","Limasol","Caesarea","Jaffa","Daron","Azotus"]
+        "spyNames": ["Paul", "Peter", "Innocent", "Pius", "Judas", "Abraham", "Joshua", "Mary", "Maria", "Helen"]
+	}
+]

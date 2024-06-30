@@ -1,0 +1,188 @@
+
+game.png
+size: 1024, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Commandery
+  rotate: false
+  xy: 420, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Monastery Hospital
+  rotate: false
+  xy: 528, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Templar Bank
+  rotate: false
+  xy: 636, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Kingdom of Jerusalem
+  rotate: false
+  xy: 636, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Militi Sancti Sepulcri
+  rotate: false
+  xy: 636, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Knights Hospitaller
+  rotate: false
+  xy: 744, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Order of Saint Lazarus
+  rotate: false
+  xy: 744, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Knights Hospitaller
+  rotate: false
+  xy: 744, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Leper Knight
+  rotate: false
+  xy: 744, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Knights Templar
+  rotate: false
+  xy: 852, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Knights Templar
+  rotate: false
+  xy: 852, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Crusader
+  rotate: false
+  xy: 960, 212
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Halbbrüder
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knights Hospitaller
+  rotate: false
+  xy: 744, 104
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knights Templar
+  rotate: false
+  xy: 960, 176
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Leper Knight
+  rotate: false
+  xy: 744, 67
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Longswordsman
+  rotate: false
+  xy: 44, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Medical Knight
+  rotate: false
+  xy: 784, 103
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Militi Sancti Sepulcri
+  rotate: false
+  xy: 960, 140
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ritterbrüder
+  rotate: false
+  xy: 824, 103
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+UnitIcons/Crusader
+  rotate: false
+  xy: 528, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Halbbrüder
+  rotate: false
+  xy: 4, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Medical Knight
+  rotate: false
+  xy: 420, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Order of the Red Star
+  rotate: false
+  xy: 420, 32
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ritterbrüder
+  rotate: false
+  xy: 212, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+NationIcons/Teutonic Order
+  rotate: false
+  xy: 212, 40
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
