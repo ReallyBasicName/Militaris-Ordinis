@@ -19,7 +19,7 @@
 		"neutralHello": "",
 		"hateHello": "",
 		
-		"tradeRequest": "The Order is willing to permiss this trade.",
+		"tradeRequest": "",
 				
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
@@ -76,15 +76,15 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "Do not fret, this war is ordained by God.",
-		"attacked": "A terrible misfortune will strike you, heretic!",
-		"defeated": "If this is God's will, then I bitterly accept it...",
-		"introduction": "Greetings stranger, you have met the pious Teutonic Order.",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
 		
-		"neutralHello": "Do you need escort to the Holy Land?",
-		"hateHello": "Your actions are heretical, be swift with what you have to say.",
+		"neutralHello": "",
+		"hateHello": "",
 		
-		"tradeRequest": "The Order is willing to permiss this trade.",
+		"tradeRequest": "",
 				
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0],
@@ -110,7 +110,7 @@
 		"declaringWar": "No need to fear, we only need to stop a threat.",
 		"attacked": "We hope you realize your mistake.",
 		"defeated": "God wills it...",
-		"introduction": "I welcome you mighty leader, if you ever need a hospital you can come to us",
+		"introduction": "I welcome you mighty leader, if you ever need aid you can come to us.",
 		
 		"neutralHello": "Do you need assistance?",
 		"hateHello": "Need something?",
@@ -146,15 +146,15 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 		
-		"declaringWar": "Do not fret, this war is ordained by God.",
-		"attacked": "A terrible misfortune will strike you, heretic!",
-		"defeated": "If this is God's will, then I bitterly accept it...",
-		"introduction": "Greetings stranger, you have met the pious Teutonic Order.",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": " ",
+		"introduction": "",
 		
-		"neutralHello": "Are you here to pray?",
-		"hateHello": "Your actions are heretical, be swift with what you have to say.",
+		"neutralHello": "",
+		"hateHello": "",
 		
-		"tradeRequest": "The Order is willing to permiss this trade.",
+		"tradeRequest": "",
 				
 		"outerColor": [255,255,255],
 		"innerColor": [1,132,37],
@@ -176,13 +176,13 @@
 		
 		"startIntroPart1": "",
 		"startIntroPart2": ""
-		"declaringWar": "Do not fret, this war is ordained by God.",
-		"attacked": "A terrible misfortune will strike you, heretic!",
-		"defeated": "If this is God's will, then I bitterly accept it...",
-		"introduction": "Greetings stranger, you have met the pious Teutonic Order.",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": .",
 		
-		"neutralHello": "Are you here to pray?",
-		"hateHello": "Your actions are heretical, be swift with what you have to say.",
+		"neutralHello": "",
+		"hateHello": "",
 		
 		"tradeRequest": "The Order is willing to permiss this trade.",
 				
